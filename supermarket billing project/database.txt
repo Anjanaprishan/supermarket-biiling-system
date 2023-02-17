@@ -1,0 +1,6 @@
+ 1 chocolate 200 0
+ 2 toffe 10 0
+ 3 ice 0 0
+ 4 cream 0 5
+ 5  0 0
+ 5 coca_cola 100 0
